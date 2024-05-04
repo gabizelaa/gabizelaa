@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000DD&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8563F5&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+GABI+BRANDÃO;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7A30F4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+GABI+BRANDÃO;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabizelaa&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Gabriela Brandão github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabizelaa&layout=compact&hide_border=true&title_color=00FFFF&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabizelaa&show_icons=true&count_private=true&hide_border=true&title_color=A696F5&icon_color=A696F5&text_color=c9d1d9&bg_color=0d1117" alt="Gabriela Brandão github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabizelaa&layout=compact&hide_border=true&title_color=A696F5&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 
@@ -30,4 +30,4 @@ These are some of the technologies and tools I use:
 [![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8563F5&height=120&section=footer"/>
