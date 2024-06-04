@@ -8,6 +8,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabizelaa&layout=compact&hide_border=true&title_color=919CF5&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
+### 😎 Sobre mim:
+- Tenho 19 ano e tenho a meta de ser Full-Stack
+- Estudo ADS na FIAP
+- No momento estou focada em Java, pelo Bootcamp da DIO
+
 
 ### ⚡ Technologies:
 
