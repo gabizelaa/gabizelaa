@@ -33,5 +33,12 @@ These are some of the technologies and tools I use:
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,figma,pycharm,vscode,eclipse)](https://skillicons.dev)
 
+### ✨ My networks:
+
+<div align="center" valign="top">
+  <a align="center" href="https://www.instagram.com/gabibmartinz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriela-b-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2C34E1&height=120&section=footer"/>
