@@ -11,7 +11,7 @@
 ### 😎 About me:
 - I'm 19 years old and my goal is to become a Full-Stack developer
 - I'm studying ADS at FIAP
-- At the moment I'm focused on Java, through the Santander DIO Bootcamp
+- At the moment I'm focused on Java
 
 ### ⚡ Technologies:
 
