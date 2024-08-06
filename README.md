@@ -23,11 +23,11 @@ These are some of the technologies and tools I use:
 
 - Backend
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=java,py,spring)](https://skillicons.dev)
 
 - Database
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=sqlite,)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=mysql,)](https://skillicons.dev)
 
 - Tools
 
