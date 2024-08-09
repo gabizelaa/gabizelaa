@@ -1,44 +1,54 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2C34E1&height=120&section=header"/>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=919CF5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+GABI+BRANDÃO;Be+Welcome!+:%29)](https://git.io/typing-svg)
+###
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabizelaa&show_icons=true&count_private=true&hide_border=true&title_color=2C34E1&icon_color=919CF5&text_color=c9d1d9&bg_color=0d1117" alt="Gabriela Brandão github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabizelaa&layout=compact&hide_border=true&title_color=919CF5&text_color=c9d1d9&bg_color=0d1117" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabizelaa&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabizelaa&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-### 😎 About me:
-- I'm 19 years old!
-- I'm studying ADS at FIAP
-- Back-end
+###
 
-### ⚡ Technologies:
-
-These are some of the technologies and tools I use:
-
-- Frontend
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,bootstrap,js)](https://skillicons.dev)
-
-- Backend
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=java,py,spring)](https://skillicons.dev)
-
-- Database
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=mysql,)](https://skillicons.dev)
-
-- Tools
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,figma,pycharm,vscode,eclipse)](https://skillicons.dev)
-
-### ✨ My networks:
-
-<div align="center" valign="top">
-  <a align="center" href="https://www.instagram.com/gabibmartinz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriela-b-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
 </div>
 
+###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2C34E1&height=120&section=footer"/>
+<div align="center">
+  <a href="www.instagram.com/gabibmartinz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="gabizela" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriela-b-martins" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gabizelaa/gabizelaa/output/snake.svg" alt="Snake animation" />
+
+###
