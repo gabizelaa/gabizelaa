@@ -1,43 +1,72 @@
-<h2 align="center">Hi 👋! My name is Gabriela and I'm a Software Developer!</h2>
+<h1 align="center">nice to meet you, im gabi!</h1>
+
+###
+
+<h2 align="center">about me</h3>
+
+###
+
+<p align="center">- automation enthusiast<br>- graduated at Systems Analysis and Development at FIAP<br>- i’m working as a junior systems analyst at Samsung SDS<br>- in my free time I play Valorant and Overwatch 😎</p>
+
+###
+
+<h2 align="center">languages and tools</h2>
+
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabizelaa&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <h3>Languages and Tech</h3>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo" />
-  <img width="12" />      
-</div>
-
-<div align="center">
-<h4>Contact</h4>
-  <a href="https://www.linkedin.com/in/gabriela-b-martins" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
+
+<h2 align="center">my stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabizelaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<h2 align="center">what im listening to</h2>
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=224kokdb5fzb2ogdfymcfk36i&count=3&unique=true" alt="Spotify Recently Played" />
+</div>
+
+###
+
+<h2 align="center">my socials</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriela-b-martins/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/gabizela" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/gabizelaaaa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://tracker.gg/valorant/profile/riot/gabizela%230612/overview?platform=pc&playlist=competitive&season=5adc33fa-4f30-2899-f131-6fba64c5dd3a" target="_blank">
+    <img width=48 height="150" src="https://media.tenor.com/YakiMd9HlhEAAAAj/petpet-sage.gif" alt="Sage Petpet GIF - Link para stats do Valorant" />
+  </a>
+</div>
