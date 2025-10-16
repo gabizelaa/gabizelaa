@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">- automation enthusiast<br>- graduated at Systems Analysis and Development at FIAP<br>- i’m working as a junior systems analyst at Samsung SDS<br>- in my free time I play Valorant and Overwatch 😎</p>
+<p align="center">- automation enthusiast<br>- graduated from FIAP with a degree in Systems Analysis and Development<br>- I'm working as a Junior Systems Analyst at Samsung SDS<br>- in my free time, I play Valorant and Overwatch 😎</p>
 
 ###
 
