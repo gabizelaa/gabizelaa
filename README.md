@@ -66,7 +66,7 @@
   <a href="https://www.instagram.com/gabizelaaaa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://tracker.gg/valorant/profile/riot/gabizela%230612/overview?platform=pc&playlist=competitive&season=5adc33fa-4f30-2899-f131-6fba64c5dd3a" target="_blank">
+  <a href="https://tracker.gg/valorant/profile/riot/cocudinha%230612/overview?platform=pc&playlist=competitive&season=5adc33fa-4f30-2899-f131-6fba64c5dd3a" target="_blank">
     <img width=48 height="150" src="https://media.tenor.com/YakiMd9HlhEAAAAj/petpet-sage.gif" alt="Sage Petpet GIF - Link para stats do Valorant" />
   </a>
 </div>
