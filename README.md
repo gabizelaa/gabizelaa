@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">- automation enthusiast<br>- graduated from FIAP with a degree in Systems Analysis and Development<br>- I'm working as a Junior Systems Analyst at Samsung SDS<br>- in my free time, I play Valorant and Overwatch 😎</p>
+<p align="center">- automation enthusiast<br>- graduated from FIAP with a degree in Systems Analysis and Development<br>- I'm working as a Junior Systems Analyst at Samsung SDS<br>- in my free time, I play tetr.io 😎</p>
 
 ###
 
@@ -57,16 +57,16 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabriela-b-martins/" target="_blank">
+  <a href="www.linkedin.com/in/gabrielabrandaomartins" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+
   <a href="https://discord.com/users/gabizela" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
+
   <a href="https://www.instagram.com/gabizelaaaa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+
   <a href="https://tracker.gg/valorant/profile/riot/cocudinha%230612/overview?platform=pc&playlist=competitive&season=5adc33fa-4f30-2899-f131-6fba64c5dd3a" target="_blank">
-    <img width=48 height="150" src="https://media.tenor.com/YakiMd9HlhEAAAAj/petpet-sage.gif" alt="Sage Petpet GIF - Link para stats do Valorant" />
-  </a>
+    <img width=52 height="40" src="https://media.tenor.com/YakiMd9HlhEAAAAj/petpet-sage.gif" alt="Sage Petpet GIF - Link para stats do Valorant" />
+
 </div>
