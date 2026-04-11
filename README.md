@@ -1,73 +1,40 @@
 <div>
-<h1 align="left">nice to meet you, im gabi!</h1>
-</div>
-###
+  <h1 style="display: inline-block;">
+    nice to meet you, im gabi!
+    <img src="./imgs/Bongo-Cat-PNG-HD.gif" width="80">
+  </h1>
 
-<h2 align="center">about me</h2>
-
-###
-
-<p align="center">- automation enthusiast<br>- graduated from FIAP with a degree in Systems Analysis and Development<br>- I'm working as a Junior Systems Analyst at Samsung SDS<br>- in my free time, I play tetr.io 😎</p>
-
-###
-
-<h2 align="center">languages and tools</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+<div>
+    <ul >
+      <li><b>automation enthusiast</b> | focus on efficiency and AI agents</li>
+      <li>graduated from <b>FIAP</b> (Systems Analysis and Development)</li>
+      <li>Junior Systems Analyst at <b>Samsung SDS</b></li>
+      <li>in my free time, playing <b>tetr.io</b> or climbing ranks in <b>Valorant</b></li>
+    </ul>
+  </div>
 </div>
 
-###
+<h2>tech stack</h2>
 
-<h2 align="center">my stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabizelaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-###
 
-<h2 align="center">what im listening to</h2>
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=224kokdb5fzb2ogdfymcfk36i&count=3&unique=true" alt="Spotify Recently Played" />
-</div>
-
-###
-
-<h2 align="center">my socials</h2>
-
-###
-
-<div align="center">
-  <a href="www.linkedin.com/in/gabrielabrandaomartins" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-
-  <a href="https://discord.com/users/gabizela" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-
+<h2>my socials</h2>
+<div>
+  <a href="https://www.linkedin.com/in/gabrielabrandaomartins" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
   <a href="https://www.instagram.com/gabizelaaaa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+</div>
 
-  <a href="https://tracker.gg/valorant/profile/riot/cocudinha%230612/overview?platform=pc&playlist=competitive&season=5adc33fa-4f30-2899-f131-6fba64c5dd3a" target="_blank">
-    <img width=52 height="40" src="https://media.tenor.com/YakiMd9HlhEAAAAj/petpet-sage.gif" alt="Sage Petpet GIF - Link para stats do Valorant" />
-
+<h2>what im listening to</h2>
+<div>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=224kokdb5fzb2ogdfymcfk36i&count=3&unique=true" alt="Spotify Recently Played" />
 </div>
