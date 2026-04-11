@@ -1,5 +1,6 @@
-<h1 align="center">nice to meet you, im gabi!</h1>
-
+<div>
+<h1 align="left">nice to meet you, im gabi!</h1>
+</div>
 ###
 
 <h2 align="center">about me</h2>
